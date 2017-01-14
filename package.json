@@ -1,0 +1,12 @@
+{
+  "name": "generate-plist-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Webpack plugin to generate a custom Plist asset from JavaScript's objects or JSON's",
+  "main": "index.js",
+  "repository": "git@github.com:tranotheron/generate-plist-webpack-plugin.git",
+  "author": "Bartłomiej Smykla <bartek@smykla.com>",
+  "license": "MIT",
+  "dependencies": {
+    "plist": "^2.0.1"
+  }
+}
