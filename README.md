@@ -1,5 +1,7 @@
 # generate-plist-webpack-plugin
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tranotheron/generate-plist-webpack-plugin.svg)](https://greenkeeper.io/)
+
 Webpack plugin to generate a custom Plist asset from JavaScript's objects or JSON's
 
 ### Installation
